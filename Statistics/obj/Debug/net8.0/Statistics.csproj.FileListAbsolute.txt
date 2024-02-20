@@ -1,0 +1,81 @@
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.exe
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.deps.json
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.runtimeconfig.json
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.dll
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.pdb
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.csproj.AssemblyReference.cache
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.AssemblyInfoInputs.cache
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.AssemblyInfo.cs
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.csproj.CoreCompileInputs.cache
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.sourcelink.json
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.csproj.CopyComplete
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.dll
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\refint\Statistics.dll
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.pdb
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.genruntimeconfig.cache
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\ref\Statistics.dll
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.csproj.AssemblyReference.cache
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfoInputs.cache
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfo.cs
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.csproj.CoreCompileInputs.cache
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.sourcelink.json
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.dll
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\refint\Statistics.dll
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.pdb
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.csproj.AssemblyReference.cache
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfoInputs.cache
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfo.cs
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.csproj.CoreCompileInputs.cache
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.sourcelink.json
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\refint\Statistics.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.pdb
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Statistics.exe
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Statistics.deps.json
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Statistics.runtimeconfig.json
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Statistics.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Statistics.pdb
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.csproj.CopyComplete
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\Statistics.genruntimeconfig.cache
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\obj\Debug\net8.0\ref\Statistics.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Statistics.exe
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Statistics.deps.json
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Statistics.runtimeconfig.json
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Statistics.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Statistics.pdb
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.csproj.AssemblyReference.cache
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfoInputs.cache
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfo.cs
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.csproj.CoreCompileInputs.cache
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.sourcelink.json
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.csproj.CopyComplete
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\refint\Statistics.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.pdb
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.genruntimeconfig.cache
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\ref\Statistics.dll
