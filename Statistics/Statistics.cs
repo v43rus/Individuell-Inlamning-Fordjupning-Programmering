@@ -18,7 +18,6 @@ namespace Statistics
 				{ "Typvärde", String.Join(", ", Mode()) },
 				{ "Variationsbredd", Range() },
 				{ "Standardavvikelse", StandardDeviation() }
-
 			};
 
 			string output =
@@ -39,6 +38,9 @@ namespace Statistics
 			Array.Reverse(source);
 			int result = source[0];
 			return result;
+
+			// Alternate linq solution
+			// return Statistics.source.OrderByDescending(a => a).First();
 		}
 
 		public static int Minimum()
@@ -46,6 +48,9 @@ namespace Statistics
 			Array.Sort(Statistics.source);
 			int result = source[0];
 			return result;
+
+			// Alternate linq solution
+			// return Statistics.source.OrderBy(a => a).First();
 		}
 
 		public static double Mean()
@@ -53,16 +58,16 @@ namespace Statistics
 			// The total double was -88 from the beginning which resulted in a faulty calculation
 			double total = 0;
 
-			for (int i = 0; i < source.Length; i++)
+			for (int i = 0; i < source.LongLength; i++)
 			{
 				total += source[i];
 			}
-			return total / source.Length;
+			return total / source.LongLength;
 		}
 
 		public static double Median()
 		{
-			Array.Sort(source);
+			Array.Sort(Statistics.source);
 			int size = source.Length;
 			int mid = size / 2;
 			int dbl = source[mid];
@@ -82,8 +87,9 @@ namespace Statistics
 		public static int Range()
 		{
 			Array.Sort(Statistics.source);
-			int min = source[0];
-			int max = source[0];
+			source.Last();
+			int min = source.First();
+			int max = source.Last();
 
 			for (int i = 0; i < source.Length; i++)
 				if (source[i] > max)

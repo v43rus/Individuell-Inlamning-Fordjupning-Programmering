@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Individuell Inläming 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62a99da2e0d980a53fdef2b6437c2254d062b7a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9fc74959ea4270fcc7112d805f882bb051fa1ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Individuell Inläming 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Individuell Inläming 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

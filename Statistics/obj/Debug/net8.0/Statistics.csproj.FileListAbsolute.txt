@@ -57,15 +57,6 @@ D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupnin
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Statistics.runtimeconfig.json
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Statistics.dll
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Statistics.pdb
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.csproj.AssemblyReference.cache
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\Statistics\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig

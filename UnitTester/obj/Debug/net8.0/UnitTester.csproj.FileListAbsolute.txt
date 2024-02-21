@@ -126,15 +126,6 @@ D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupnin
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\UnitTester.dll
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\UnitTester.pdb
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -226,3 +217,4 @@ D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupnin
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\obj\Debug\net8.0\UnitTester.pdb
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\obj\Debug\net8.0\UnitTester.genruntimeconfig.cache
 D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\obj\Debug\net8.0\ref\UnitTester.dll
+D:\Webbutveckling\C#\Fördjupning Programmering\Individuell-Inlamning-Fordjupning-Programmering\UnitTester\obj\Debug\net8.0\UnitTester.sourcelink.json

@@ -13,7 +13,7 @@ namespace Individuell_Inläming_1
 			Console.WriteLine("(Note that program crashes if you don't input anything)");
 			Console.Write("Input a first letter you want to sort names by (eg. a, b or c): ");
 
-			// Gets input and checks if it's valid using Regex
+			// Gets input
 			char searchChar = Console.ReadLine()![0];
 
 
